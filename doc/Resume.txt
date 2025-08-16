@@ -1,0 +1,142 @@
++6285155099746
+
+yusufajarmoekti@gmail.com
+
+https://www.linkedin.com/in/yusuf-mukti-b18556126
+
+Jakarta
+
+YUSUF FAJAR MUKTI
+Enterprise BI (Data Engineer)
+
+I believe data is one of the tools that could guide human to a more rational decision. To use data for our advantage means mastering its end-to-end process, 
+from  ingestion  to  reporting.  Therefore,  I  am  skilled  in  SQL,  Extract  Transform  and  Load  (ETL)  pipeline  development,  combined  with  Metabase  dashboard 
+visualization as well as storytelling skill, economics knowledge, and business acumen to derive wisdom from data, as highlighted by my experiences in academic 
+research, data analyst, and data engineering.  I enjoy the process of automating task and the efﬁcieny that it produces
+
+Summary
+
+Business: Data Analysis Business Analysis Financial Reporting Data Engineer Data Visualization Task Automation Macroeconomics
+
+Technology: Big Query  SQL Metabase Airﬂow Excel Macros Google Cloud Platform Python STATA
+
+Skills
+
+Gojek Indonesia
+Data Engineer / Enterprise BI
+
+Company Description
+
+Experience
+
+Jakarta
+
+01/2022 - Present
+
+•
+
+•
+
+•
+
+•
+
+Providing business insights to the holding company as well as integrating data throughout departements
+Design the development of Big Query ﬁnancial data mart and Metabase reporting dashboard
+Double the ﬁnance reporting efﬁciency by automating the process through Airﬂow job pipeline, for seamless monthly revenue calculation
+Build Revenue Recognition Engine (RRE), for seamless monthly revenue calculation
+
+Jakarta
+
+09/2021 - 12/2021
+
+Yogyakarta
+
+01/2020 - 03/2020
+
+Yogyakarta
+
+2017 - 08/2021
+
+JDID
+Data Analyst (Intern)
+
+Company Description
+
+•
+
+•
+
+•
+
+Assess marketing campaigns perfomance, particularly on big sale events
+Build automated dashboards with dynamic charts in Google Sheets using script, double the efﬁciency
+Update weekly data of funnel metrics and visualization dashboard in Google Data Studio
+
+Pameo
+Market Research (Intern)
+
+Company Description
+
+•
+
+•
+
+•
+
+Build a database of state-owned enterprises (SOE) media engagement and design
+Proposed potential clients using quadrant analysis of industries data
+Helping users reach a contract deal two times faster than usual
+
+University of Gadjah Mada
+GPA 3.74
+B.A in Economics
+:
+
+|
+
+ / 
+
+4.0
+
+•
+
+Activities: Student Economics Association, Student Executive Body, Activism
+
+Education
+
+Courses & Certificates
+
+● Excel Skill for Business Essentials 
+● Excel Skills for Business: Intermediate II  
+● DeepLearning.AI TensorFlow Developer  
+● Convolutional Neural Networks in TensorFlow  
+● Natural Languange Processing in TensorFlow  
+● Sequences, Time Series, and Prediction  
+● Data Visualization and Dashboards with Excel and Cognos
+
+Artiﬁcial Intelligence (AI)
+
+Task Automation
+
+Politics
+
+Interests & Hobbies
+
+Passionate on how to utilize AI to increase 
+efﬁcieny in my daily activity
+
+Love to automate the nitty-gritty of the day to day 
+task, such as make an automated schedule for 
+clearing my laptop's cache memory
+
+Curious on how 'power' works. Might as well take 
+a PhD on learning that speciﬁc topic
+
+www.enhancv.com
+
+Powered by
+
+
+
+
